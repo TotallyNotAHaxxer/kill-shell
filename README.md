@@ -55,4 +55,19 @@ linux
 ```
 git clone https://github.com/ArkAngeL43/kill-shell.git ; cd kill-shell ; sudo apt-get install gcc ; gcc main.c -o main ; gcc run.c -o run ; clear ; echo '[+] Done'
 ```
+windows 
+``` 
+download a exe compiler 
+compile all c code make sure 
+the exe for run  = run 
+the exe for main = main
 
+then 
+
+run the exe 
+
+
+```
+
+
+this also will work on a USB in case you want to have a chip automatically run these command files, this was a little project so i figured why not post it 
