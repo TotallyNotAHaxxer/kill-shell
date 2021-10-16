@@ -52,5 +52,7 @@ Options -> re
 
 #all in one command 
 linux
+```
 git clone https://github.com/ArkAngeL43/kill-shell.git ; cd kill-shell ; sudo apt-get install gcc ; gcc main.c -o main ; gcc run.c -o run ; clear ; echo '[+] Done'
+```
 
